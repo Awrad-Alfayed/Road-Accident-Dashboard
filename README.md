@@ -33,12 +33,4 @@ This repository presents a data visualization project analyzing road accident st
 - Data Sources: Accident datasets
 - Languages: Python, SQL
 
----
 
-## Contributions
-Improvements and feature additions are welcome. Please open an issue or submit a pull request.
-
----
-
-### Disclaimer
-The data is for informational purposes only and should be verified with official sources.
